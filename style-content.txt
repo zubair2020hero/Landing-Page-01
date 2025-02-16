@@ -1,0 +1,63 @@
+
+
+
+*********************************************
+Style Guide
+___________ 
+
+------------------
+****Color****
+------------------
+
+**background color**
+--------------------
+--bg-white-linear: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+--bg-white: #fff;
+--bg-body: #F4F4F4;
+--bg-work-1: #E7C1D3;
+--bg-work-2: #EFDA6E;
+--bg-work-3: #A4DAC3;
+--bg-work-4: #77AAEA;
+--bg-main: #ABEF5F;
+--bg-main-50: #ABEF5F80;
+--bg-main-50: #ABEF5F33;
+
+**text color**
+--------------
+--text-Black-1: #212121;
+--text-Black-2: #494949;
+--text-Gray: #737373;
+--text-Gray-2: #A0A0A0;
+--text-Button: #1C1C1C;
+--text-white-footer: #E9E9E9;
+
+**border color**
+----------------
+--border-1: #E9E9E9;
+
+------------------
+****Typography****
+------------------
+
+**font family**
+---------------
+--fontFamly-manrope: "Manrope", sans-serif;;
+
+**font size**
+-------------
+--fontSize-1: 2.00rem;
+--fontSize-2: 1.00rem;
+--fontSize-3: 1.25rem;
+--fontSize-4: 4.00rem;
+--fontSize-5: 2.50rem;
+--fontSize-6: 0.88rem;
+
+**font weight**
+---------------
+--weight-regular: 400;
+--weight-medium: 500;
+--weight-bold: 700;
+--weight-extraBold: 800;
+
+*********************************************
+
